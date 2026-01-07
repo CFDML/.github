@@ -4,7 +4,7 @@
 
 ---
 
-## 🌊🙋‍♀️ What is CFDML?
+## 🙋‍♀️ What is CFDML?
 
 **CFDML (Cross-disciplinary Fluid Dynamics and Machine Learning)** is an open, collaborative alliance of scientists and engineers (from CAS, USTC, PKU, etc.), dedicated to advancing research, software, and tools at the convergence of **Fluid Dynamics (CFD)** and **Machine Learning (ML)**. Our mission is to support, develop, and share open-source solutions that enable next-generation fluid dynamic modeling and simulation.
 
